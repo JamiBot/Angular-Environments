@@ -1,6 +1,8 @@
 # EnvExample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+A simple example of how to use Angular Environments to set up different Firebase projects as data centers for alpha and production. It's best practice to do this so you keep production user data safe.
+
+[JamiBot YouTube Tutorial – Angular Environments](https://youtu.be/6WJ8kObLSiQ)
 
 ## Development server
 
