@@ -4,7 +4,7 @@ A simple example of how to use Angular Environments to set up different Firebase
 
 [JamiBot YouTube Tutorial – Angular Environments](https://youtu.be/6WJ8kObLSiQ)
 
-## Npm commands
+## NPM Commands
 
 Build for development `npm run build`
 Build for production `npm run build:prod`
