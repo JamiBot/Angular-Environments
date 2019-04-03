@@ -6,6 +6,8 @@ This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angu
 
 A simple example of how to use Angular Environments to set up different Firebase projects as data centers for alpha and production. It's best practice to do this so you keep production user data safe.
 
+If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
+
 ## Installation
 
 Download or clone this project, then run `npm i` from the project directory to install its dependencies. Not familiar with NPM? Check out my [NPM Tutorial](https://www.youtube.com/watch?v=mzs-N5hXGuQ).
