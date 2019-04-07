@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular Environments](https://www.youtube.com/watch?v=6WJ8kObLSiQ).
 
-[![Upload images to Firebase Storage](https://img.youtube.com/vi/6WJ8kObLSiQ/0.jpg)](https://youtu.be/6WJ8kObLSiQ)
+[![Upload images to Firebase Storage](https://img.youtube.com/vi/6WJ8kObLSiQ/mqdefault.jpg)](https://youtu.be/6WJ8kObLSiQ)
 
 A simple example of how to use Angular Environments to set up different Firebase projects as data centers for alpha and production. It's best practice to do this so you keep production user data safe.
 
